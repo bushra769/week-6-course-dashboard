@@ -72,6 +72,7 @@ export default defineConfig([
   },
 ])
 
-```
-![image alt] https://github.com/bushra769/week-6-course-dashboard/blob/c7be2a101ba5b00157fe0f4bac9ebc76543a8754/course-dashboard.png
+```![image alt]( https://github.com/bushra769/week-6-course-dashboard/blob/c7be2a101ba5b00157fe0f4bac9ebc76543a8754/course-dashboard.png)
+
+ https://github.com/bushra769/week-6-course-dashboard/blob/c7be2a101ba5b00157fe0f4bac9ebc76543a8754/course-dashboard.png
 ![image alt](https://github.com/bushra769/week-6-course-dashboard/blob/df42e77890022b628f309577a3217c68586a3edf/course-dashboard-2.png)
