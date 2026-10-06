@@ -73,6 +73,5 @@ export default defineConfig([
 ])
 
 ```
-https://raw.githubusercontent.com/bushra769/week-6-course-dashboard/c7be2a101ba5b00157fe0f4bac9ebc76543a8754/course-dashboard.png
-
+https://github.com/bushra769/week-6-course-dashboard/blob/c7be2a101ba5b00157fe0f4bac9ebc76543a8754/course-dashboard.png
 
